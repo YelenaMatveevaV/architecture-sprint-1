@@ -1,1 +1,1 @@
-textgit config --global user.name
+text
