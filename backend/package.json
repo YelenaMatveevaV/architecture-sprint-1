@@ -37,5 +37,11 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.3",
     "validator": "^13.0.0"
-  }
+  },
+  "resolutions": {
+  "nth-check": "^2.1.1",
+  "postcss": "^8.4.31",
+  "css-select": "^5.1.0",
+  "svgo": "^2.8.0"
+}
 }
